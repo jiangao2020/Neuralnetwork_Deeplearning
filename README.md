@@ -1,9 +1,9 @@
 # Neuralnetwork_Deeplearning
 ### How many neurons and layers did you select for your neural network model? Why?
 Hidden Layers: 2
-1st Layer: 14 Neurons
-2nd Layer: 7 Neurons
-Iterations: 100
+- 1st Layer: 14 Neurons
+- 2nd Layer: 7 Neurons
+- Iterations: 100
 
 I trained with different numbers of layers and neurons. Overall, this configuration provides highest accuracy with relative small numbers of nuerons, which is the most efficient. 
 
